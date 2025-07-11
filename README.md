@@ -1,6 +1,6 @@
 # curriculum-vitae
 
-最終更新日 2025/05/01
+最終更新日 2025/07/12
 
 ## 基本情報
 
@@ -61,7 +61,7 @@ SREとして入社し、[note](https://note.com/), [noteマネー](https://money
   * Bytebase社との共同執筆 
 * [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
 
-### 株式会社東雲火山：2024/1 ~ 現在(業務委託)
+### 株式会社東雲火山：2024/1 ~ 2025/6(業務委託)
 
 * 体験型ゲームの管理サーバーのインフラ構築・運用に従事。
   * API Gateway + Lambda(serverless-express)の構築、CI・CD環境の構築
