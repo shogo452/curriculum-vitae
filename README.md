@@ -60,6 +60,8 @@ SREとして入社し、[note](https://note.com/), [noteマネー](https://money
 * [How note.com Implements Just-in-Time (JIT) Database Access Control with Bytebase](https://www.bytebase.com/blog/note-case-study/)
   * Bytebase社との共同執筆 
 * [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
+* [AWS Cost Explorer MCP Server と Claude Code Actionを用いたインフラコスト分析の自動化](https://note.com/shogo452/n/ne56fb11ea902)
+* [複数のTerraform管理リポジトリに対するClaude CodeおよびCursorの設定の共通化](https://note.com/shogo452/n/ne56fb11ea902)
 
 ### 株式会社東雲火山：2024/1 ~ 2025/6(業務委託)
 
