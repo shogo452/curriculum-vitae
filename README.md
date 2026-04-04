@@ -66,7 +66,7 @@ SREとして入社し、[note](https://note.com/), [noteマネー](https://money
 * [AWS Cost Explorer MCP Server と Claude Code Actionを用いたインフラコスト分析の自動化](https://note.com/shogo452/n/ne56fb11ea902)
 * [複数のTerraform管理リポジトリに対するClaude CodeおよびCursorの設定の共通化](https://note.com/shogo452/n/ne56fb11ea902)
 
-### yell株式会社:2025/7 ~ 現在(業務委託)
+### yell株式会社：2025/7 ~ 現在(業務委託)
 
 * ライブ配信アプリおよびECサイトのインフラ運用業務に従事。
   * ステージング環境のデプロイ・起動・停止の自動化
