@@ -20,17 +20,20 @@
 ## スキル
 
 * 言語
-  * Ruby
+  * Ruby, TypeScript
   * HTML/CSS/JavaScript
   * 日本語
     * ネイティブ
   * 英語
     * 日常会話レベル 
-* フレームワーク
-  * Rails
+* フレームワーク・ライブラリ
+  * Rails, React, Next.js
 * インフラ
   * AWS
     * EKS, EC2, ECS, RDS, CloudWatch, S3, Route53, CloudFormation, Athena, Lambda, QuickSight, EventBridge, CostExplorer, IAM, ACM, CodeDeploy, CodeBuild, OpenSeach Service, ElastiCache, WAF, CloudTrail, Glue, Elemental MediaConvert, Systems Manager, SNS, SES
+    * AWS CDK
+  * Google Cloud
+   * Cloud Run, Cloud Storage, Cloud Logging 
   * Docker
   * Kubernetes
   * Terraform
@@ -62,6 +65,20 @@ SREとして入社し、[note](https://note.com/), [noteマネー](https://money
 * [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
 * [AWS Cost Explorer MCP Server と Claude Code Actionを用いたインフラコスト分析の自動化](https://note.com/shogo452/n/ne56fb11ea902)
 * [複数のTerraform管理リポジトリに対するClaude CodeおよびCursorの設定の共通化](https://note.com/shogo452/n/ne56fb11ea902)
+
+### yell株式会社:2025/7 ~ 現在(業務委託)
+
+* ライブ配信アプリおよびECサイトのインフラ運用業務に従事。
+  * ステージング環境のデプロイ・起動・停止の自動化
+  * Lambda関数のCI/CDの整備
+  * DBマイグレーションの自動化
+
+### 株式会社スタメン:2025/7 ~ 2026/3(業務委託)
+
+* クラウド型のIT資産管理・操作ログ管理ツールのインフラ運用業務に従事。
+  * Amazon Aurora PostgreSQLのメジャーアップデート
+  * CloudFront+S3の新規リソース作成の効率化
+  * インフラコスト削減
 
 ### 株式会社東雲火山：2024/1 ~ 2025/6(業務委託)
 
